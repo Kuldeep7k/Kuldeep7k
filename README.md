@@ -33,43 +33,47 @@ I'm an MCA student passionate about technology and development. I love building 
 ---
 
 ### 💻 Projects
+<details>
+  <summary>Click to view Projects</summary>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="width: 45%; text-align: center;">
+      <h4 style="color: white;">🧠 Infosys Stroke Patient Healthcare Using Machine Learning</h4>
+      <a href="https://github.com/Kuldeep7k/Healthcare_Analysis_for_Stroke_Prediction" style="text-decoration: none;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=Healthcare_Analysis_for_Stroke_Prediction" alt="Healthcare_Analysis_for_Stroke_Prediction" style="border-radius: 8px;"/>
+      </a>
+    </div>
+
+   <div style="width: 45%; text-align: center;">
+      <h4 style="color: white;">🌦 Real-Time Data Processing System for Weather Monitoring</h4>
+      <a href="https://github.com/Kuldeep7k/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates" style="text-decoration: none;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates" alt="Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates" style="border-radius: 8px;"/>
+      </a>
+    </div>
+
 <div style="width: 45%; text-align: center;">
-    <h4 style="color: white;">🧠 Infosys Stroke Patient Healthcare Using Machine Learning</h4>
-    <a href="https://github.com/Kuldeep7k/Healthcare_Analysis_for_Stroke_Prediction" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=Healthcare_Analysis_for_Stroke_Prediction" alt="Healthcare_Analysis_for_Stroke_Prediction" style="border-radius: 8px;"/>
-    </a>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
-    <h4 style="color: white;">🌦 Real-Time Data Processing System for Weather Monitoring</h4>
-    <a href="https://github.com/Kuldeep7k/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates" alt="Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates" style="border-radius: 8px;"/>
-    </a>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
     <h4 style="color: white;">📹 Fetch Video - YouTube Downloader</h4>
     <a href="https://github.com/Kuldeep7k/FetchVideo-YouTube_Downloader" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=FetchVideo-YouTube_Downloader" alt="FetchVideo-YouTube_Downloader" style="border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=FetchVideo-YouTube_Downloader" alt="FetchVideo-YouTube_Downloader" style="border-radius: 8px;"/>
     </a>
-  </div>
+</div>
 
-  <div style="width: 45%; text-align: center;">
+<div style="width: 45%; text-align: center;">
     <h4 style="color: white;">🎬 RateContent - IMDB API Clone</h4>
     <a href="https://github.com/Kuldeep7k/RateContent-IMDB_API_Clone" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=RateContent-IMDB_API_Clone" alt="RateContent-IMDB_API_Clone" style="border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=RateContent-IMDB_API_Clone" alt="RateContent-IMDB_API_Clone" style="border-radius: 8px;"/>
     </a>
-  </div>
+</div>
 
-  <div style="width: 45%; text-align: center;">
+<div style="width: 45%; text-align: center;">
     <h4 style="color: white;">📰 TechBlog - Read Latest Tech Blogs</h4>
     <a href="https://github.com/Kuldeep7k/TechBlog-Read_Latest_Tech_Blogs" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=TechBlog-Read_Latest_Tech_Blogs" alt="TechBlog-Read_Latest_Tech_Blogs" style="border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuldeep7k&repo=TechBlog-Read_Latest_Tech_Blogs" alt="TechBlog-Read_Latest_Tech_Blogs" style="border-radius: 8px;"/>
     </a>
-  </div>
 </div>
+
+  </div>
+</details>
 
 
 ### 📊 GitHub Stats

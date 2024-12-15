@@ -88,17 +88,4 @@ I'm an MCA student passionate about technology and development. I love building 
 
 ---
 
-### 🌟 Highlights
-
-- **Python Development**:
-  - Expertise in developing full-stack web applications and REST APIs using Django and Flask.
-- **Machine Learning Projects**:
-  - Proficient in data preprocessing, feature engineering, and model training for predictive analysis.
-- **Project Management**:
-  - Experienced in agile development and implementing end-to-end solutions for web and machine learning projects.
-- **Problem-Solving and Analytical Skills**:
-  - Skilled in exploratory data analysis and creating actionable insights from complex  datasets.
-
----
-
 **✨ _"Stay curious, keep coding, and build something amazing!"_ ✨**

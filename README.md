@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm an MCA student passionate about technology and development. I love building dynamic and interactive applications using Flask and Django, experimenting with machine learning, and diving deep into data analysis.
+I'm an MCA Graduate passionate about technology and development. I love building dynamic and interactive applications using Flask and Django, experimenting with machine learning, and diving deep into data analysis.
 
 - 🔭 Recently completed: **Python Developer Internship at Infosys Springboard**
 - 🌱 Currently learning: **Data Analysis and Machine Learning**

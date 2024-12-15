@@ -77,12 +77,14 @@ I'm an MCA student passionate about technology and development. I love building 
 
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeep7k&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep7k&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep7k&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" />
-</div>
+<details>
+  <summary>Click to view GitHub Stats</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuldeep7k&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep7k&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep7k&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" />
+  </div>
+</details>
 
 ---
 

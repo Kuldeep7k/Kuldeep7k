@@ -15,9 +15,7 @@ I'm an MCA Graduate passionate about technology and development. I love building
 - 🔭 Recently completed: **Python Developer Internship at Infosys Springboard**
 - 🌱 Currently learning: **Data Analysis and Machine Learning**
 
-
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kuldeep7k)
-    [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Kuldeep7k)
 
 ---
 

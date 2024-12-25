@@ -22,7 +22,7 @@ I'm an MCA Graduate passionate about technology and development. I love building
 ### 🛠️ Skills
 
 - **Programming Languages**: 
-  - `Python` 🐍, `SQL` 💻, `HTML` 🌐, `CSS` 🎨
+  - `Python` 🐍, `SQL` 💻, `HTML5` 🌐, `CSS3` 🎨
 
 - **Frameworks**: 
   - `Django` 🖥️, `Flask` 🔥
@@ -34,7 +34,7 @@ I'm an MCA Graduate passionate about technology and development. I love building
   - `SQLite` 📦, `MySQL` 🗄️
 
 - **Tools & Technologies**: 
-  - `Django REST Framework` 🛠️, `Git` 🐙, `Bootstrap` 🎨
+  - `Bootstrap` 🎨, `Git` 🐙, `Django REST Framework` 🛠️ 
 
 - **Other Skills**: 
   - `Problem-Solving` 🧠, `Adaptability` 🌱, `Good Communication` 🗣️

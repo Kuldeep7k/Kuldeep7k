@@ -21,13 +21,6 @@ I'm an MCA Graduate passionate about technology and development. I love building
 
 ### 🛠️ Skills
 
-- **Programming Languages**: Python, SQL, HTML, CSS
-- **Frameworks**: Django, Flask
-- **Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Database**: SQLite, MySQL
-- **Tools & Technologies**: Django REST Framework, Git, Bootstrap, FFmpeg
-- **Other Skills**: Problem-Solving, Adaptability, Good Communication
-
 - **Programming Languages**: 
   - `Python` 🐍, `SQL` 💻, `HTML` 🌐, `CSS` 🎨
 
@@ -45,7 +38,6 @@ I'm an MCA Graduate passionate about technology and development. I love building
 
 - **Other Skills**: 
   - `Problem-Solving` 🧠, `Adaptability` 🌱, `Good Communication` 🗣️
-
 
 ---
 

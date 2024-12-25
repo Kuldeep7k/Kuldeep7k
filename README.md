@@ -21,12 +21,36 @@ I'm an MCA Graduate passionate about technology and development. I love building
 
 ### 🛠️ Skills
 
-- **Programming Languages**: Python, SQL, HTML, CSS
-- **Frameworks**: Django, Flask
-- **Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Database**: SQLite, MySQL
-- **Tools & Technologies**: Django REST Framework, Git, Bootstrap, FFmpeg
-- **Other Skills**: Problem-Solving, Adaptability, Good Communication
+- **Programming Languages**: 
+  <i class="fab fa-python"></i> <span class="badge badge-pill badge-primary">Python</span>, 
+  <i class="fas fa-database"></i> <span class="badge badge-pill badge-primary">SQL</span>, 
+  <i class="fab fa-html5"></i> <span class="badge badge-pill badge-primary">HTML</span>, 
+  <i class="fab fa-css3-alt"></i> <span class="badge badge-pill badge-primary">CSS</span>
+  
+- **Frameworks**: 
+  <i class="fab fa-python"></i> <span class="badge badge-pill badge-info">Django</span>, 
+  <i class="fab fa-python"></i> <span class="badge badge-pill badge-info">Flask</span>
+
+- **Machine Learning**: 
+  <i class="fas fa-cogs"></i> <span class="badge badge-pill badge-warning">Scikit-learn</span>, 
+  <i class="fas fa-cogs"></i> <span class="badge badge-pill badge-warning">Pandas</span>, 
+  <i class="fas fa-cogs"></i> <span class="badge badge-pill badge-warning">NumPy</span>
+
+- **Database**: 
+  <i class="fas fa-database"></i> <span class="badge badge-pill badge-success">SQLite</span>, 
+  <i class="fas fa-database"></i> <span class="badge badge-pill badge-success">MySQL</span>
+
+- **Tools & Technologies**: 
+  <i class="fas fa-tools"></i> <span class="badge badge-pill badge-secondary">Django REST Framework</span>, 
+  <i class="fab fa-git"></i> <span class="badge badge-pill badge-secondary">Git</span>, 
+  <i class="fab fa-bootstrap"></i> <span class="badge badge-pill badge-secondary">Bootstrap</span>, 
+  <i class="fas fa-video"></i> <span class="badge badge-pill badge-secondary">FFmpeg</span>
+
+- **Other Skills**: 
+  <i class="fas fa-brain"></i> <span class="badge badge-pill badge-dark">Problem-Solving</span>, 
+  <i class="fas fa-shapes"></i> <span class="badge badge-pill badge-dark">Adaptability</span>, 
+  <i class="fas fa-comment-dots"></i> <span class="badge badge-pill badge-dark">Good Communication</span>
+
 
 ---
 

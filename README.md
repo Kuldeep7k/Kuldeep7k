@@ -25,7 +25,7 @@ I'm an MCA Graduate passionate about technology and development. I love building
   - `Python` 🐍, `SQL` 💻, `HTML5` 🌐, `CSS3` 🎨
 
 - **Frameworks**: 
-  - `Django` 🖥️, `Flask` 🔥
+  - `Django` 🖥️, `Flask` 🔥, `Streamlit` 🎥
 
 - **Machine Learning**: 
   - `Scikit-learn` 📊, `Pandas` 📚, `NumPy` ➗

@@ -62,7 +62,7 @@ I'm an MCA Graduate passionate about technology and development. I love building
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg;" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Typing SVG" />
 </div>
 
 **✨ _"Stay curious, keep coding, and build something amazing!"_ ✨**

@@ -60,5 +60,5 @@ I'm an MCA Graduate passionate about technology and development. I love building
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep7k&layout=donut&theme=codeSTACKr" alt="Top Languages" />
 </div>
 ---
-
+https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg
 **✨ _"Stay curious, keep coding, and build something amazing!"_ ✨**

@@ -34,7 +34,7 @@ I'm an MCA Graduate passionate about technology and development. I love building
   - `SQLite` 📦, `MySQL` 🗄️
 
 - **Tools & Technologies**: 
-  - `Bootstrap` 🎨, `Git` 🐙, `GitHub 🐱`, `Django REST Framework` 🛠️ , `Excel` 📊
+  - `Bootstrap` 🎨, `Git` 🐙, `GitHub 🐱`, `Django REST Framework` 🛠️ , `Excel` 📊, `Power BI` 📊 
 
 - **Other Skills**: 
   - `Problem-Solving` 🧠, `Adaptability` 🌱, `Good Communication` 🗣️

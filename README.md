@@ -12,8 +12,6 @@
 
 I’m an MCA graduate with a strong passion for technology and development. I enjoy building dynamic and interactive applications using Flask and Django, exploring machine learning, and delving into data analysis to uncover valuable insights.
 
-- 🔭 Recently completed: **Python Developer Internship at Infosys Springboard**
-- 🌱 Currently learning: **Data Analytics**
 - 🔗 Connect with me on LinkedIn:
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kuldeep7k)
 

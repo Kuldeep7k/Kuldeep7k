@@ -35,7 +35,7 @@ Postgraduate Full Stack Developer who loves building with Python and working wit
   `SQLite` 📦 | `MySQL` 🗄️  
 
 - **Tools & Technologies**:  
-  `Bootstrap` 🎨 | `Git` 🐙 | `GitHub` 🐱 | `Django REST Framework` 🛠️ | `Excel` 📊 | `Power BI` 📊  
+  `Bootstrap` 🎨 | `Git` 🐙 | `GitHub` 🐱 | `Django REST Framework` 🛠️ | `Excel` 📊 
 
 - **Other Skills**:  
   `Problem-Solving` 🧠 | `Adaptability` 🌱 | `Good Communication` 🗣️  
@@ -47,8 +47,7 @@ Postgraduate Full Stack Developer who loves building with Python and working wit
 
 | **Name**                                              | **Overview**                                                                                               | **Link**                                                                                                     |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| AutoCap - AI Video Captioning Tool                 | A tool for automatically generating high-quality captions for videos using FFmpeg, Whisper, and advanced speech analysis.                                   | [GitHub Repository](https://github.com/Kuldeep7k/AutoCap-AI_Video_Captioning_Tool)                    |
-| ScraperX - Twitter Sentiment Analysis                 | A Python project where we scraped tweets, cleaned the data, and performed sentiment analysis on the tweets.                                    | [GitHub Repository](https://github.com/themanavpaul/scraperx-twitter-sentiment-analysis)                    |
+| AutoCap - AI Video Captioning Tool                 | A tool for automatically generating high-quality captions for videos using FFmpeg, Whisper, and advanced speech analysis.                                   | [GitHub Repository](https://github.com/Kuldeep7k/AutoCap-AI_Video_Captioning_Tool)                    |                |
 | Healthcare Analysis for Stroke Prediction             | An analysis and prediction Python project focused on stroke occurrence using machine learning techniques.          | [GitHub Repository](https://github.com/Kuldeep7k/Healthcare_Analysis_for_Stroke_Prediction)                 |
 | VidExchange - Video Sharing Platform                  | A video-sharing platform that allows users to upload and share videos with others.                         | [GitHub Repository](https://github.com/Kuldeep7k/VidExchange_-_Video-Sharing-Platform)                     |
 | Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates | A project for weather monitoring using rollups and aggregates to process real-time data.                   | [GitHub Repository](https://github.com/Kuldeep7k/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates) |

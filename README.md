@@ -19,23 +19,27 @@ Postgraduate Full Stack Developer who loves building with Python and working wit
 
 ### 🛠️ Skills
 
-- **Programming Languages**: 
-  - `Python` 🐍, `SQL` 💻, `HTML5` 🌐, `CSS3` 🎨
+- **Programming Languages**:  
+  `Python` 🐍 | `SQL` 💻 | `HTML5` 🌐 | `CSS3` 🎨 | `TypeScript` 🔷  
 
-- **Frameworks**: 
-  - `Django` 🖥️, `Flask` 🔥, `Streamlit` 🎥
+- **Frontend & Desktop**:  
+  `React` ⚛️ | `Electron.js` 🖥️  
 
-- **Machine Learning**: 
-  - `Scikit-learn` 📊, `Pandas` 📚, `NumPy` ➗
+- **Frameworks**:  
+  `Django` 🖥️ | `Flask` 🔥 | `Streamlit` 🎥  
 
-- **Database**: 
-  - `SQLite` 📦, `MySQL` 🗄️
+- **Machine Learning**:  
+  `Scikit-learn` 📊 | `Pandas` 📚 | `NumPy` ➗  
 
-- **Tools & Technologies**: 
-  - `Bootstrap` 🎨, `Git` 🐙, `GitHub 🐱`, `Django REST Framework` 🛠️ , `Excel` 📊, `Power BI` 📊 
+- **Database**:  
+  `SQLite` 📦 | `MySQL` 🗄️  
 
-- **Other Skills**: 
-  - `Problem-Solving` 🧠, `Adaptability` 🌱, `Good Communication` 🗣️
+- **Tools & Technologies**:  
+  `Bootstrap` 🎨 | `Git` 🐙 | `GitHub` 🐱 | `Django REST Framework` 🛠️ | `Excel` 📊 | `Power BI` 📊  
+
+- **Other Skills**:  
+  `Problem-Solving` 🧠 | `Adaptability` 🌱 | `Good Communication` 🗣️  
+
 
 ---
 

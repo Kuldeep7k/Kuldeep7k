@@ -53,12 +53,6 @@ I’m an MCA graduate with a strong passion for technology and development. I en
 | FetchVideo - YouTube Downloader                       | FetchVideo is a web app built with Python Django for downloading YouTube videos and shorts effortlessly in high quality               | [GitHub Repository](https://github.com/Kuldeep7k/FetchVideo-YouTube_Downloader)                            |
 
 
-### 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuldeep7k&show_icons=true&theme=codeSTACKr&count_private=true&rank_icon=github" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep7k&layout=donut&theme=codeSTACKr" alt="Top Languages" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Typing SVG" />
 </div>
